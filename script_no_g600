@@ -1,7 +1,14 @@
 function OnEvent(event, arg, mouse)
 if (event == "MOUSE_BUTTON_PRESSED" and arg == 6) then
     repeat
-    x, y = GetMousePosition()
-    OutputLogMessage("Mouse is at %d, %d\n", x, y)
+    --x, y = GetMousePosition()
+    --OutputLogMessage("Mouse is at %d, %d\n", x, y)
+    PressKey ("escape")
+    ReleaseKey ("escape")
+    PressKey ("up")
+    ReleaseKey ("up")
+    PressKey ("enter")
+    ReleaseKey ("enter")
+    until IsMouseButtonPressed(6)
 end
 end
