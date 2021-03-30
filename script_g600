@@ -1,1 +1,14 @@
-
+function OnEvent(event, arg, mouse)
+if (event == "G_PRESSED" and arg == 9) then
+    repeat
+    --x, y = GetMousePosition()
+    --OutputLogMessage("Mouse is at %d, %d\n", x, y)
+    PressKey ("escape")
+    ReleaseKey ("escape")
+    PressKey ("up")
+    ReleaseKey ("up")
+    PressKey ("enter")
+    ReleaseKey ("enter")
+    until IsGPressed(9)
+end
+end
