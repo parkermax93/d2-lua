@@ -12,3 +12,4 @@ if (event == "G_PRESSED" and arg == 9) then
     until IsGPressed(9)
 end
 end
+--Currently not working
