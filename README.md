@@ -1,2 +1,2 @@
 # d2-lua
-enter exit d2 game lua script
+exit d2 game lua script on mouse button press
