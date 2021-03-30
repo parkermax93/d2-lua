@@ -1,5 +1,5 @@
 function OnEvent(event, arg, mouse)
-if (event == "G_PRESSED" and arg == 9) then
+if (event == "MOUSE_BUTTON_PRESSED" and arg == 9) then
     repeat
     --x, y = GetMousePosition()
     --OutputLogMessage("Mouse is at %d, %d\n", x, y)
@@ -9,7 +9,7 @@ if (event == "G_PRESSED" and arg == 9) then
     ReleaseKey ("up")
     PressKey ("enter")
     ReleaseKey ("enter")
-    until IsGPressed(9)
+    until IsMouseButtonPressed(9)
 end
 end
 --Currently not working
