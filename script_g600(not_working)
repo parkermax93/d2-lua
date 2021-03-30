@@ -13,3 +13,6 @@ if (event == "MOUSE_BUTTON_PRESSED" and arg == 9) then
 end
 end
 --Currently not working
+
+--event == "G_PRESSED" and arg == 9
+--until IsGPressed(9)
