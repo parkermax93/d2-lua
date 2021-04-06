@@ -40,3 +40,26 @@ ItemDisplay[dcma]: %PURPLE%**++OO %RED%%NAME% %PURPLE%OO++**%MAP% {%RED%Diablo %
 ItemDisplay[dcbl]: %RED%*+O %GOLD%%NAME% %RED%O+*%MAP% {%WHITE%Diablo Clone Ingredient}
 ItemDisplay[dcho]: %RED%*+O %GOLD%%NAME% %RED%O+*%MAP% {%WHITE%Diablo Clone Ingredient}
 ItemDisplay[dcso]: %RED%*+O %GOLD%%NAME% %RED%O+*%MAP% {%WHITE%Diablo Clone Ingredient}
+//╔══════════╗
+//║ PD2 Maps ║
+//╚══════════╝
+ItemDisplay[(t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19) NMAG]: %GREEN%*+O %WHITE%%NAME% %GREEN%O+*%MAP%
+ItemDisplay[(t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19) MAG !ID]: %GREEN%*+O %BLUE%%NAME% %GREEN%O+*%MAP%
+ItemDisplay[(t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19) RARE !ID]: %GREEN%*+O %YELLOW%%NAME% %GREEN%O+*%MAP%
+ItemDisplay[(t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19) MAG ID]: %GREEN%*+O %BLUE%%NAME% %GREEN%O+*%MAP%
+ItemDisplay[(t11 OR t12 OR t13 OR t14 OR t15 OR t16 OR t17 OR t18 OR t19) RARE ID]: %YELLOW%%NAME%%MAP%
+ItemDisplay[(t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29) NMAG]: %ORANGE%*+O %WHITE%%NAME% %ORANGE%O+*%MAP%
+ItemDisplay[(t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29) MAG !ID]: %ORANGE%*+O %BLUE%%NAME% %ORANGE%O+*%MAP%
+ItemDisplay[(t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29) RARE !ID]: %ORANGE%*+O %YELLOW%%NAME% %ORANGE%O+*%MAP%
+ItemDisplay[(t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29) MAG ID]: %ORANGE%*+O %BLUE%%NAME% %ORANGE%O+*%MAP%
+ItemDisplay[(t21 OR t22 OR t23 OR t24 OR t25 OR t26 OR t27 OR t28 OR t29) RARE ID]: %YELLOW%%NAME%%MAP%
+ItemDisplay[(t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39) NMAG]: %RED%*+O %WHITE%%NAME% %RED%O+*%MAP%
+ItemDisplay[(t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39) MAG !ID]: %RED%*+O %BLUE%%NAME% %RED%O+*%MAP%
+ItemDisplay[(t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39) RARE !ID]: %RED%*+O %YELLOW%%NAME% %RED%O+*%MAP%
+ItemDisplay[(t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39) MAG ID]: %RED%*+O %BLUE%%NAME% %RED%O+*%MAP%
+ItemDisplay[(t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t37 OR t38 OR t39) RARE ID]: %YELLOW%%NAME%%MAP%
+ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) NMAG]: %PURPLE%*+O %WHITE%%NAME% %PURPLE%O+*%MAP%
+ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) MAG !ID]: %PURPLE%*+O %BLUE%%NAME% %PURPLE%O+*%MAP%
+ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) RARE !ID]: %PURPLE%*+O %YELLOW%%NAME% %PURPLE%O+*%MAP%
+ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) MAG ID]: %PURPLE%*+O %BLUE%%NAME% %PURPLE%O+*%MAP%
+ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) RARE ID]: %YELLOW%%NAME%%MAP%
