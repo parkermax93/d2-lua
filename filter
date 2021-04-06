@@ -6,3 +6,21 @@ ItemDisplay[CLVL>59 GOLD<2500]:
 ItemDisplay[CLVL>44 GOLD<750]:
 ItemDisplay[CLVL>24 GOLD<250]:
 ItemDisplay[CLVL<25 GOLD<100]:
+//╔═════════════╗
+//║ QUEST ITEMS ║
+//╚═════════════╝
+ItemDisplay[bbb]: %TAN%%NAME%
+ItemDisplay[ass]: %TAN%%NAME%
+ItemDisplay[bkd]: %TAN%%NAME%
+ItemDisplay[bks]: %TAN%%NAME%
+ItemDisplay[g34]: %TAN%%NAME%
+ItemDisplay[j34]: %TAN%%NAME%%MAP%
+ItemDisplay[mss]: %TAN%%NAME%
+ItemDisplay[qbr]: %TAN%%NAME%
+ItemDisplay[qey]: %TAN%%NAME%
+ItemDisplay[qhr]: %TAN%%NAME%
+ItemDisplay[tr1]: %TAN%%NAME%
+ItemDisplay[tr2]: %TAN%%NAME%
+ItemDisplay[xyz]: %TAN%%NAME%
+ItemDisplay[ice]: %TAN%%NAME%
+ItemDisplay[leg]: %TAN%%NAME%
