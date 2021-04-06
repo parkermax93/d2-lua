@@ -24,3 +24,19 @@ ItemDisplay[tr2]: %TAN%%NAME%
 ItemDisplay[xyz]: %TAN%%NAME%
 ItemDisplay[ice]: %TAN%%NAME%
 ItemDisplay[leg]: %TAN%%NAME%
+//╔═══════════╗
+//║ PD2 ITEMS ║
+//╚═══════════╝
+ItemDisplay[imma]: %YELLOW%* %NAME% %YELLOW%*%MAP% {%WHITE%+ %BLUE%Jewel %NL%%WHITE% Imbue White to %BLUE%Magic Map}
+ItemDisplay[imra]: %RED%* %NAME% %RED%*%MAP% {%WHITE%+ %BLUE%Jewel %WHITE%+ %TAN%Thul>%NL%%WHITE%White to %YELLOW%Rare Map}
+ItemDisplay[rera]: %ORANGE%* %NAME% %ORANGE%*%MAP% {%WHITE%+ PGem + %TAN%Thul>%NL%%WHITE%Reroll %YELLOW%Rare Map}
+ItemDisplay[scou]: %GREEN%* %NAME% %GREEN%*%MAP% {%WHITE%+ %ORANGE%Hel%NL%%WHITE%Return to White Map}
+ItemDisplay[upma]: %BLUE%* %NAME% %BLUE%*%MAP% {%WHITE%+ PSkull + %TAN%Thul>%NL%%WHITE%Upg %BLUE%Magic %WHITE%to %YELLOW%Rare Map}
+ItemDisplay[upmp]: %PURPLE%* %NAME% %PURPLE%*%MAP% {%WHITE%+ Three %WHITE%M%BLUE%A%YELLOW%P%WHITE%s of Same Tier %NL%%WHITE%Upg Maps to Next Tier}
+ItemDisplay[scrb]: %PURPLE%* %NAME% %PURPLE%*%MAP% {%WHITE%+ Tier 3 %RED%Map %NL%%WHITE%Turns %RED%Map%WHITE% into %PURPLE%Dungeon%PURPLE%}
+ItemDisplay[lbox]: %PURPLE%***+++OOO %GREEN%%NAME% %PURPLE%OOO+++***%MAP% {%WHITE%Two-Handed Weapon = 4 max%NL%One-Handed Weapon = 2 max%NL%Helmet, Chest, Shield = 2 max%NL%%WHITE%Use it to %TAN%Socket %WHITE%an Item}
+ItemDisplay[wss]: %GREEN%*+O %PURPLE%WORLDDDSTARRR %GREEN%O+*%MAP% {%WHITE%Use it to %RED%Corrupt %WHITE%Items/Maps}
+ItemDisplay[dcma]: %PURPLE%**++OO %RED%%NAME% %PURPLE%OO++**%MAP% {%RED%Diablo %WHITE%walks the earth...}
+ItemDisplay[dcbl]: %RED%*+O %GOLD%%NAME% %RED%O+*%MAP% {%WHITE%Diablo Clone Ingredient}
+ItemDisplay[dcho]: %RED%*+O %GOLD%%NAME% %RED%O+*%MAP% {%WHITE%Diablo Clone Ingredient}
+ItemDisplay[dcso]: %RED%*+O %GOLD%%NAME% %RED%O+*%MAP% {%WHITE%Diablo Clone Ingredient}
