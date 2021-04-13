@@ -62,3 +62,11 @@ ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) MAG !I
 ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) RARE !ID]: %PURPLE%*+O %YELLOW%%NAME% %PURPLE%O+*%MAP%
 ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) MAG ID]: %PURPLE%*+O %BLUE%%NAME% %PURPLE%O+*%MAP%
 ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) RARE ID]: %YELLOW%%NAME%%MAP%
+//╔══════════╗
+//║ ESSENCES ║
+//╚══════════╝
+ItemDisplay[fed]: %GREEN%***+++OOO ESSENCE OOO+++***
+ItemDisplay[tes]: %BLUE%*+O ESSENCE O+*
+ItemDisplay[ceh]: %YELLOW%*+O ESSENCE O+*
+ItemDisplay[bet]: %RED%*+O ESSENCE O+*
+ItemDisplay[toa]: %PURPLE%***+++OOO TOKEN OOO+++***
