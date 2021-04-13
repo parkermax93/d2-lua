@@ -1,7 +1,6 @@
 //╔══════╗
 //║ GOLD ║
 //╚══════╝
-ItemDisplay[CLVL>79 GOLD<5000]:
 ItemDisplay[CLVL>59 GOLD<2500]:
 ItemDisplay[CLVL>44 GOLD<750]:
 ItemDisplay[CLVL>24 GOLD<250]:
