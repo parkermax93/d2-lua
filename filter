@@ -123,3 +123,30 @@ ItemDisplay[r30 OR r30s]: %GREEN%30 %PURPLE%****++++OOOO %RED%BER %PURPLE%OOOO++
 ItemDisplay[r31 OR r31s]: %GREEN%31 %PURPLE%****++++OOOO %RED%JAH %PURPLE%OOOO++++**** %GREEN%31%MAP%
 ItemDisplay[r32 OR r32s]: %GREEN%32 %PURPLE%****++++OOOO %RED%CHAM %PURPLE%OOOO++++**** %GREEN%32%MAP%
 ItemDisplay[r33 OR r33s]: %GREEN%33 %PURPLE%****++++OOOO %RED%ZOD %PURPLE%OOOO++++**** %GREEN%33%MAP%
+//╔══════╗
+//║ GEMS ║
+//╚══════╝
+ItemDisplay[CLVL>39 (gsv OR gsw OR gsg OR gsr OR gsb OR gsy OR sku)]:
+ItemDisplay[CLVL>29 (gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf)]:
+ItemDisplay[CLVL>19 (gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc)]:
+ItemDisplay[CLVL<40 gsv]: %PURPLE%>%GRAY%amethyst
+ItemDisplay[CLVL<40 gsw]: %WHITE%>%GRAY%diamond
+ItemDisplay[CLVL<40 gsg]: %GREEN%>%GRAY%emerald
+ItemDisplay[CLVL<40 gsr]: %RED%>%GRAY%ruby
+ItemDisplay[CLVL<40 gsb]: %BLUE%>%GRAY%sapphire
+ItemDisplay[CLVL<40 gsy]: %YELLOW%>%GRAY%topaz
+ItemDisplay[CLVL<40 sku]: %BLACK%>%GRAY%skull
+ItemDisplay[CLVL<30 gfv]: %PURPLE%>%GRAY%flawed
+ItemDisplay[CLVL<30 gfw]: %WHITE%>%GRAY%flawed
+ItemDisplay[CLVL<30 gfg]: %GREEN%>%GRAY%flawed
+ItemDisplay[CLVL<30 gfr]: %RED%>%GRAY%flawed
+ItemDisplay[CLVL<30 gfb]: %BLUE%>%GRAY%flawed
+ItemDisplay[CLVL<30 gfy]: %YELLOW%>%GRAY%flawed
+ItemDisplay[CLVL<30 skf]: %BLACK%>%GRAY%skull
+ItemDisplay[CLVL<20 gcv]: %PURPLE%>%GRAY%chipped
+ItemDisplay[CLVL<20 gcw]: %WHITE%>%GRAY%chipped
+ItemDisplay[CLVL<20 gcg]: %GREEN%>%GRAY%chipped
+ItemDisplay[CLVL<20 gcr]: %RED%>%GRAY%chipped
+ItemDisplay[CLVL<20 gcb]: %BLUE%>%GRAY%chipped
+ItemDisplay[CLVL<20 gcy]: %YELLOW%>%GRAY%chipped
+ItemDisplay[CLVL<20 skc]: %BLACK%>%GRAY%skull
