@@ -100,3 +100,16 @@ ItemDisplay[r17 OR r17s]: %RED%* %ORANGE%LUM %RED%* %GRAY%17%MAP%
 ItemDisplay[r18 OR r18s]: %RED%*+ %ORANGE%KO %RED%+* %GRAY%18%MAP%
 ItemDisplay[r19 OR r19s]: %RED%*+ %ORANGE%FAL %RED%+* %GRAY%19%MAP%
 ItemDisplay[r20 OR r20s]: %RED%**++ %ORANGE%LEM %RED%++** %GRAY%20%MAP%
+ItemDisplay[r21 OR r21s]: %RED%**++ %PURPLE%PUL %RED%++** %GRAY%21%MAP%
+ItemDisplay[r22 OR r22s]: %RED%**++OO %PURPLE%UM %RED%OO++** %GRAY%22%MAP%
+ItemDisplay[r23 OR r23s]: %RED%**++OO %PURPLE%MAL %RED%OO++** %GRAY%23%MAP%
+ItemDisplay[r24 OR r24s]: %RED%***+++OOO %PURPLE%IST %RED%OOO+++*** %GRAY%24%MAP%
+ItemDisplay[r25 OR r25s]: %RED%***+++OOO %PURPLE%GUL %RED%OOO+++*** %GRAY%25%MAP%
+ItemDisplay[r26 OR r26s]: %GREEN%26 %RED%****++++OOOO %PURPLE%VEX %RED%OOOO++++**** %GREEN%26%MAP%
+ItemDisplay[r27 OR r27s]: %GREEN%27 %RED%****++++OOOO %PURPLE%OHM %RED%OOOO++++**** %GREEN%27%MAP%
+ItemDisplay[r28 OR r28s]: %GREEN%28 %PURPLE%****++++OOOO %RED%LO %PURPLE%OOOO++++**** %GREEN%28%MAP%
+ItemDisplay[r29 OR r29s]: %GREEN%29 %PURPLE%****++++OOOO %RED%SUR %PURPLE%OOOO++++**** %GREEN%29%MAP%
+ItemDisplay[r30 OR r30s]: %GREEN%30 %PURPLE%****++++OOOO %RED%BER %PURPLE%OOOO++++**** %GREEN%30%MAP%
+ItemDisplay[r31 OR r31s]: %GREEN%31 %PURPLE%****++++OOOO %RED%JAH %PURPLE%OOOO++++**** %GREEN%31%MAP%
+ItemDisplay[r32 OR r32s]: %GREEN%32 %PURPLE%****++++OOOO %RED%CHAM %PURPLE%OOOO++++**** %GREEN%32%MAP%
+ItemDisplay[r33 OR r33s]: %GREEN%33 %PURPLE%****++++OOOO %RED%ZOD %PURPLE%OOOO++++**** %GREEN%33%MAP%
