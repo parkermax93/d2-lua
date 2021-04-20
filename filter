@@ -62,6 +62,16 @@ ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) MAG !I
 ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) RARE !ID]: %PURPLE%*+O %YELLOW%%NAME% %PURPLE%O+*%MAP%
 ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) MAG ID]: %PURPLE%*+O %BLUE%%NAME% %PURPLE%O+*%MAP%
 ItemDisplay[(t41 OR t42 OR t43 OR t44 OR t45 OR t46 OR t47 OR t48 OR t49) RARE ID]: %YELLOW%%NAME%%MAP%
+//╔═══════════╗
+//║ UBER KEYS ║
+//╚═══════════╝
+ItemDisplay[pk1]: %TAN%*+O %PURPLE%Terror Key %TAN%O+*%MAP% {%PURPLE%Bloodraven %WHITE%or %PURPLE%The Countess}
+ItemDisplay[pk2]: %TAN%*+O %GREEN%Hate Key %TAN%O+*%MAP% {%GREEN%Bloodwitch the Wild %WHITE%or %GREEN%The Summoner}
+ItemDisplay[pk3]: %TAN%*+O %YELLOW%Destruction Key %TAN%O+*%MAP% {%YELLOW%Izual %WHITE%or %YELLOW%Nihlathak}
+ItemDisplay[bey]: %PURPLE%*+O %TAN%Baal's Eye %PURPLE%O+*%MAP%
+ItemDisplay[dhn]: %PURPLE%*+O %TAN%Diablo's Horn %PURPLE%O+*%MAP%
+ItemDisplay[mbr]: %PURPLE%*+O %TAN%Mephistor's Brain %PURPLE%O+*%MAP%
+ItemDisplay[std]: %GOLD%+ %DARK_GREEN%Standard %GOLD%+%MAP%
 //╔══════════╗
 //║ ESSENCES ║
 //╚══════════╝
