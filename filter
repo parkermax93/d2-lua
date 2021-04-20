@@ -90,3 +90,13 @@ ItemDisplay[r07 OR r07s]: %TAN%TAL %GRAY%7%MAP%
 ItemDisplay[r08 OR r08s]: %TAN%RAL %GRAY%8%MAP%
 ItemDisplay[r09 OR r09s]: %TAN%ORT %GRAY%9%MAP%
 ItemDisplay[r10 OR r10s]: %TAN%THUL %GRAY%10%MAP%
+ItemDisplay[r11 OR r11s]: %TAN%AMN %GRAY%11%MAP%
+ItemDisplay[r12 OR r12s]: %TAN%SOL %GRAY%12%MAP%
+ItemDisplay[r13 OR r13s]: %TAN%SHAEL %GRAY%13%MAP%
+ItemDisplay[r14 OR r14s]: %TAN%DOL %GRAY%14%MAP%
+ItemDisplay[r15 OR r15s]: %TAN%HEL %GRAY%15%MAP%
+ItemDisplay[r16 OR r16s]: %TAN%IO %GRAY%16%MAP%
+ItemDisplay[r17 OR r17s]: %RED%* %ORANGE%LUM %RED%* %GRAY%17%MAP%
+ItemDisplay[r18 OR r18s]: %RED%*+ %ORANGE%KO %RED%+* %GRAY%18%MAP%
+ItemDisplay[r19 OR r19s]: %RED%*+ %ORANGE%FAL %RED%+* %GRAY%19%MAP%
+ItemDisplay[r20 OR r20s]: %RED%**++ %ORANGE%LEM %RED%++** %GRAY%20%MAP%
